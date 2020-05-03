@@ -78,7 +78,7 @@
                             C'est une fonction qui prend comme argument un réel, vérifie si ce dernier est 
                             un entier ou pas et renvoie finalement un booléen.<br><br>
                         </p>
-                        <iframe height="600px" width="100%" src="https://repl.it/@Toiwilou/IsInt?lite=true" scrolling="no" 
+                        <iframe height="700px" width="100%" src="https://repl.it/@Toiwilou/IsInt?lite=true" scrolling="no" 
                          frameborder="no" allowtransparency="true" allowfullscreen="true"
                         sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe><br><br>
 
