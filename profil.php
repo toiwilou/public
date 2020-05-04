@@ -6,9 +6,11 @@
         <div class="container">
             <h1 class="cherv"><b>Chers visiteurs !</b></h1>
             <p class="para">
-                Je m'appelle <strong>Toiwilou HASSANE</strong>, je suis né le 12 août 1998, je viens                               de MDJOIEZI - HAMBOU - COMORES, j'ai eu un BAC scientifique en 2016. J'ai eu une licence 
+                Je m'appelle <strong>TOIWILOU Hassane</strong>, je suis né le 12 août 1998, je viens de 
+                MDJOIEZI - HAMBOU - COMORES, j'ai eu un BAC scientifique en 2016. J'ai eu une licence 
                 de mathématiques fondamentales en 2019. L'année suivante, j'ai intégré la troisième année 
-                de développement web dans une école d'informatique. 
+                de développement web dans une école d'informatique. <br><br>
+                <a class="btn btn-primary" href="fichier/CV_Toiwilou.pdf" target="_blank" role="button">Voir mon CV &raquo; </a>
             </p>
         </div>
     </div>
@@ -18,10 +20,10 @@
             <h1 id="parcour" class="display-5">Parcours</h1>
             <p>
                 À propos de mon parcours, tout a officiellement commencé en 2016, quand j'ai eu 
-                mon baccalauréat scientifique. Jusque là, je me débrouillais pas mal en chimie, 
+                mon baccalauréat scientifique. Jusque là, je me débrouillais bien en chimie, 
                 et bien d'autres matières, et j'avais l'ambition de faire la chimie afin d'être 
                 entrepreneur sur des entreprises de productions chimiques. Bien-sûr, j'étais hyper
-                motivé car mon esprit étais limiité sur ce qu'on peut bien faire à part la chimie. 
+                motivé car mon esprit étais limité sur ce que je pourrais bien faire à part la chimie. 
                 Il a fallu découvrir le langage JAVA en 2018 pour comprendre qu'il est possible de faire 
                 plein de choses intéressantes surtout sur le domaine des numériques.
             <p id="spoiler1">
@@ -30,28 +32,28 @@
 
                     <span class="span"><strong>Science physique</strong></span><br><br>
 
-                    La physique est la matière dont j'ai commencé à bien comprendre deux mois avant le baccalauréeat, 
+                    La physique est la matière dont j'ai commencé à bien comprendre deux mois avant le baccalauréat, 
                     et qui reste la matière que j'ai, plus ou moins, assimilé beaucoup de notions en classe de terminale. 
                     C'est-à-dire, durant les années précédentes, je ne comprenais rien sur la physique, moi-même je n'arrive 
-                    pas à y croire ! Mais, j'ai toujours été à l'aise sur l'électricité et la chimie. En revanche, cette 
-                    acquisition m'a permis de comprendre toute la physique des années passées. Donc, jusque là, j'ai acquis 
+                    pas à y croire ! Néanmoins, j'ai toujours été à l'aise sur l'électricité et la chimie. En revanche, cette 
+                    acquisition m'a permis de comprendre toute la physique des années passées. En effet, jusque là, j'ai acquis 
                     la mécanique d'un point matériel, la conception et le fonctionnement d'un circuit électrique, les solutions 
-                    aqueuses et les composées organiques. Une fois à l'université, jai fais la thermodynamique, l'atomistique, 
+                    aqueuses et les composées organiques. Une fois à l'Université, j'ai fais la thermodynamique, l'atomistique, 
                     l'électricité, l'optique, la mécanique du solide, l'électromagnétisme et une brève étude sur l'action du champ magnétique dans 
                     un haut-parleur.<br><br>
 
                     <span class="span"><strong>Mathématiques</strong></span><br><br>
 
-                    Les mathématiques ont toujours été ma matière préférée malgré que je ne suis jamais parvenu à avoir 
-                    une note supérieur à 15 ! Depuis les classes de primaire jusqu'en classe de première, tout allait bien. 
+                    Les maths ont toujours été ma matière préférée malgré le fait que je ne suis jamais parvenu à avoir 
+                    une note supérieur à 15 ! Depuis la primaire jusqu'en classe de première, tout allait bien. 
                     Arrivé en classe de terminale, tout a basculé à partir du moment où j'ai raté les premiers cours 
-                    d'initiation de probabilité et ceux des nombres complexes, par des raisons administratives. 
-                    De ce fait, je n'ai pas pu me rattraper sur ces deux parties, en revanche, je me débrouillais bien sur 
+                    d'initiation de la probabilité et ceux des nombres complexes, par des raisons administratives. 
+                    De ce fait, je n'ai pas pu me rattraper sur ces deux parties. En revanche, je me débrouillais bien sur 
                     l'étude d'une fonction et la géometrie, qui sont deux parties dont j'étais à l'aise bien avant d'entrer 
-                    en terminale. Bien que je comprenais l'étude d'une fonction, j'ai accumilé beaucoup de lacunes, ce qui 
+                    en classe de terminale. Bien que je comprenais l'étude d'une fonction, j'ai accumilé beaucoup de lacunes, ce qui 
                     m'a ramener à me concentrer un peu plus sur la physique. Après, je me suis inscrit en mathématiques 
                     fondamentales. La raison pour laquelle j'ai fait les maths, c'est qu'après les trois ans de licence on a
-                    plusieurs opportunités. J'ai réussi à avoir ma licence en 2019, mais il faut dire que ça n'a pas été du 
+                    plusieurs opportunités. J'ai réussi à avoir ma licence en 2019. Mais il faut dire que ça n'a pas été du 
                     gâteau ! Certes aucune branche n'est facile, mais c'étais différent ! Il faut juste essayer d'imaginer le 
                     fait de valider trois ans de maths et de ne pas être sûr de savoir ce qu'on maîtrise et ce qu'on ne maîtrise 
                     pas. Toutefois je vous cite les modules de formation, à savoir l'analyse, l'analyse numérique l'algèbre, 
@@ -67,7 +69,7 @@
                     le langage JAVA. Avec ce dernier, j'ai fait l'initiation, la conception des classes et le travail 
                     sur la méthode <i>main</i>, et l'héritage. Après la validation de la troisième année, j'ai eu 
                     une inscription pour la France pour l'année 2019 - 2020, et j'ai intégré une école d'informatique
-                    à Paris(<strong>INSTA</strong>) pour la formation de développement web.
+                    à Paris (<strong>INSTA</strong>) pour la formation de développement web.
                 </span>
             </p>
             </p>
@@ -89,7 +91,7 @@
                     <span class="span"><strong>Professionnels</strong></span><br><br>
 
                     Du mois de Décembre 2018 au mois de Juin 2019, j'assurais des cous particuliers de 
-                    soutiens de mathématiques et de physique-chimie, à des jeunes lycéens pour la préparation
+                    soutiens de mathématiques et de physique-chimie à des jeunes lycéens pour la préparation
                     du baccalauréat.<br><br>
 
                     <span class="span"><strong>Activités</strong></span><br><br>
@@ -111,7 +113,7 @@
                     <strong><i>SAID</i></strong>. Mais fut un temps, j'ai eu l'envie de jouer un peu dans la 
                     cour des grands. En 2018, j'ai rejoint le club de <strong><i>WALLAD_AL_ISLAM</i></strong>.
                     Et l'année suivante, j'ai eu mon inscription pour la France. Et comme vous pouvez bien 
-                    Le constater, je préfère, de loin, les études que le football. Du coup, je suis parti 
+                    le constater, je préfère, de loin, les études que le football. Du coup, je suis parti 
                     en France.<br><br>
 
                     En ce qui concerne le haut niveau, en 2017, je jouais, pour la première fois, en troisième 
@@ -128,8 +130,8 @@
             <h1 id="projetpro" class="display-5">Projets professionnels</h1>
             <p>
                 On observe dans le monde d'aujourd'hui une évolution exponentielle
-                dans le domaine des numéruques. On peut bien constater que dans les
-                années suivantes, nous allons assister à une informatisation dans
+                sur le domaine des numéruques. On peut bien constater que dans les
+                années suivantes, nous allons assister à une informatisation sur
                 tous les domaines. Pour cela j'ai décidé d'intégrer le domaine
                 informatique afin de devenir entrepreneur, plus précisement sur
                 des projets informatisés.
@@ -138,21 +140,21 @@
                 <a class="btn btn-primary" href="#projetpro" role="button">Voir mes projets &raquo;</a>
                 <span class="spoiler-content">
                     <a class="btn btn-success" href="#" role="button">Etablissement scolaire &raquo;</a><br>
-                    <span>********************************</span><br>
+                    <span>****************************</span><br>
                     <a id="projet1" class="btn btn-success" href="#projetpro" role="button">Université &raquo;</a><br>
-                    <span>******************</span><br>
+                    <span>**************</span><br>
                     <a class="btn btn-success" href="#" role="button">OMLP &raquo;</a><br>
-                    <span>**************</span><br>
+                    <span>**********</span><br>
                     <a class="btn btn-success" href="#" role="button">Supermarché &raquo;</a><br>
-                    <span>**********************</span><br>
+                    <span>******************</span><br>
                     <a class="btn btn-success" href="#" role="button">Elevage &raquo;</a><br>
-                    <span>****************</span><br>
+                    <span>************</span><br>
                     <a class="btn btn-success" href="#" role="button">Agriculture &raquo;</a><br>
-                    <span>*******************</span><br>
+                    <span>***************</span><br>
                     <a class="btn btn-success" href="#" role="button">Pèche &raquo;</a><br>
-                    <span>**************</span><br>
+                    <span>**********</span><br>
                     <a class="btn btn-success" href="#" role="button">Gestion des dechets &raquo;</a><br>
-                    <span>******************************</span><br>
+                    <span>**************************</span><br>
                 </span>
             </div>
         </div>

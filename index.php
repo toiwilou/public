@@ -49,8 +49,8 @@
                 <h1 class="display-4"><b>Projets</b></h1>
                 <p>
                     On observe dans le monde d'aujourd'hui une évolution exponentielle 
-                    dans le domaine des numéruques. On peut bien constater que dans les 
-		    années suivantes, nous allons assister à une informatisation dans 
+                    sur le domaine des numéruques. On peut bien constater que dans les 
+		    années suivantes, nous allons assister à une informatisation sur 
 		    tous les domaines. Pour cela j'ai décidé d'intégrer le domaine
 		    informatique afin de devenir entrepreneur, plus précisement sur
 		    des projets informatisés.

@@ -27,7 +27,7 @@
                         <span id="pubs" class="titre_algo">2. Principe de la NAT</span><br><br>
                         <p>
                             Le principe de la <strong>NAT</strong> est une étude sur les adresses IP, qui consiste à 
-                            expliciter la façon dont une adresse IP public parvient à communiquer avec une adresse IP
+                            expliciter la façon dont une adresse IP publique parvient à communiquer avec une adresse IP
                             privée et inversement. Ce travail nous propose de découvrir trois parties essentielles :<br><br>
                             - La <strong>NAT</strong> <strong>statique</strong><br>
                             - La <strong>NAT</strong> <strong>dynamique</strong><br>
@@ -40,9 +40,9 @@
                             Dans la gestion de projet moderne, des renouvellements méthodologiques sont mis en place 
                             afin de pouvoir bien organiser les projets, essentiellement des projets informatiques, et 
                             avoir une interaction qualifiée entre les acteurs du projet. Il s'agit des méthodes agiles. 
-                            La méthode <strong>SCRUM</strong> est une méthode agile dont les ressources sont actualisées 
-                            régulièrement et a comme principe de base, de s'apprêter à reorienter le projet pendant son 
-                            evolution.<br><br>
+                            En effet, la méthode <strong>SCRUM</strong> est une méthode agile dont les ressources sont 
+                            actualisées régulièrement et a comme principe de base, de s'apprêter à reorienter le projet 
+                            en cas de besoin, pendant son évolution.<br><br>
                         </p>
                         <iframe src="fichier/scrum.pdf" width="100%" height="500px"></iframe><br><br>
                         <iframe src="fichier/Quiz_TOIWILOU_HASSANE.pdf" width="100%" height="500px"></iframe><br><br>
@@ -53,13 +53,11 @@
             <div class="tab-content" id="algo"> 
 		<p>
 		 
-                    L'objectif de cette partie est de mettre au point des algorithmes réutilisable pour des 
+                    L'objectif de cette partie est de mettre au point des algorithmes réutilisables pour des 
                     différents cas afin de faciliterer le codage. Il s'agit essentiellement de fonctions. 
-                    Cependant, il ne sera pas possible de copier le code pour réessayer parce que ce sont des 
-                    photos importées.  
                     <br><br>
 
-                    <span class="titre_algo">1. Fonction de recuperation d'une matrice</span><br><br>
+                    <span class="titre_algo">1. Fonction de récupération d'une matrice</span><br><br>
 
                     Il s'agit d'une fonction qui prend en argument une chaine de caractères, identifie le nombre 
                     de lignes et de colonnes à partir des point-virgules et des virgules, et renvoie une matrice 
@@ -76,13 +74,13 @@
                             <span class="titre_algo">2. Programme voyelles</span></script><br><br>
 
                             Ici il est question d'un programme qui saisit un mot (de type chaine de caractères),
-                            détermine le nombre dde voyelles, et affiche ce dernier et les voyelles en question.
+                            détermine le nombre de voyelles, et affiche ce dernier et les voyelles en question.
                             <br><br>
                         </p>
                         <iframe height="700px" width="100%" src="https://repl.it/@Toiwilou/Voyelles?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe><br><br>
 
                         <p>
-                            <span id="algos" class="titre_algo">3. Fonction de verification d'un réel</span><br><br>
+                            <span id="algos" class="titre_algo">3. Fonction de vérification d'un réel</span><br><br>
 
                             C'est une fonction qui prend comme argument un réel, vérifie si ce dernier est 
                             un entier ou pas et renvoie finalement un booléen.<br><br>
@@ -93,8 +91,8 @@
 			                <span class="titre_algo">4. Fonctions de parité</span></script><br><br>
 
                             Il s'agit de deux fonctions qui prennent comme argument un réel et renvoie une chaine 
-                            de caractère qui donne la parité. L'une d'elles se base sur la division et l'autre se 
-                            base sur un tableau.<br><br>
+                            de caractères qui donne la parité. L'une d'elles se base sur la division et l'autre 
+                            sur un tableau.<br><br>
                         </p>
                         <iframe height="800px" width="100%" src="https://repl.it/@Toiwilou/Parited?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe><br><br>
                     </span>
@@ -103,11 +101,6 @@
 
             <div class="tab-content" id="diver">
                 <p>
-                    A propos ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br>
                     <a class="btn btn-primary" href="#diver" role="button">Voir plus &raquo;</a>
                 </p>
             </div>
