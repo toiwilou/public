@@ -59,14 +59,14 @@
                     photos importées.  
                     <br><br>
 
-                    <span class="titre_algo">1. Fonction de recuperation d'une matrice carrée</span><br><br>
+                    <span class="titre_algo">1. Fonction de recuperation d'une matrice</span><br><br>
 
-                    Il s'agit d'une fonction qui prend comme argument des réels, verifie si le nombre de réels 
-                    saisis est bien un carré parfait et renvoie une matrice carrée qui a comme ordre la racine 
-                    carrée du nombre de réels saisis.
+                    Il s'agit d'une fonction qui prend en argument une chaine de caractères, identifie le nombre 
+                    de lignes et de colonnes à partir des point-virgules et des virgules, et renvoie une matrice 
+                    de dimensions correspondant aux nombre de lignes et de colonnes identifiés.
                 </p>
                 <div class="container">
-                    <div class="slide"><img src="img/recup_mat.jpg"></div>
+                    <div class="slide"><iframe height="1200px" width="100%" src="https://repl.it/@Toiwilou/Matrice?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe></div>
                 </div>
                 <br><br>
                 <div id="spoiler2">
