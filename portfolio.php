@@ -24,7 +24,7 @@
                 <div id="spoiler1">
                     <a class="btn btn-primary" href="#pubs" role="button">Voir plus &raquo;</a>
                     <span class="spoiler-content">
-                        <span id="pubs" class="titre_algo">1. Principe de la NAT</span><br><br>
+                        <span id="pubs" class="titre_algo">2. Principe de la NAT</span><br><br>
                         <p>
                             Le principe de la <strong>NAT</strong> est une étude sur les adresses IP, qui consiste à 
                             expliciter la façon dont une adresse IP public parvient à communiquer avec une adresse IP
@@ -35,7 +35,7 @@
                         </p>
                         <iframe src="fichier/nat.pdf" width="100%" height="500px"></iframe><br><br>
                         
-                        <span id="pubs" class="titre_algo">2. La méthode <strong>SCRUM</strong></span><br><br>
+                        <span id="pubs" class="titre_algo">3. La méthode <strong>SCRUM</strong></span><br><br>
                         <p>
                             Dans la gestion de projet moderne, des renouvellements méthodologiques sont mis en place 
                             afin de pouvoir bien organiser les projets, essentiellement des projets informatiques, et 
@@ -73,27 +73,32 @@
                     <a class="btn btn-primary" href="#algos" role="button">Vois plus &raquo;</a>
                     <span class="spoiler-content">
                         <p>
-                            <span id="algos" class="titre_algo">1. Fonction de verification d'un réel</span><br><br>
+                            <span class="titre_algo">2. Programme voyelles</span></script><br><br>
+
+                            Ici il est question d'un programme qui saisit un mot (de type chaine de caractères),
+                            détermine le nombre dde voyelles, et affiche ce dernier et les voyelles en question.
+                            <br><br>
+                        </p>
+                        <iframe height="700px" width="100%" src="https://repl.it/@Toiwilou/Voyelles?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe><br><br>
+
+                        <p>
+                            <span id="algos" class="titre_algo">3. Fonction de verification d'un réel</span><br><br>
 
                             C'est une fonction qui prend comme argument un réel, vérifie si ce dernier est 
                             un entier ou pas et renvoie finalement un booléen.<br><br>
                         </p>
-                        <iframe height="700px" width="100%" src="https://repl.it/@Toiwilou/IsInt?lite=true" scrolling="no" 
-                         frameborder="no" allowtransparency="true" allowfullscreen="true"
-                        sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe><br><br>
+                        <iframe height="700px" width="100%" src="https://repl.it/@Toiwilou/IsInt?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe><br><br>
 
                         <p>
-			   <span class="titre_algo">1. Fonction de parité</span></script><br><br>
+			                <span class="titre_algo">4. Fonctions de parité</span></script><br><br>
 
                             Il s'agit de deux fonctions qui prennent comme argument un réel et renvoie une chaine 
                             de caractère qui donne la parité. L'une d'elles se base sur la division et l'autre se 
                             base sur un tableau.<br><br>
-                            
-                            <span style="color: #940c87;">public</span> String <span style="color: #076ab0;">parite</span>;
                         </p>
                         <iframe height="800px" width="100%" src="https://repl.it/@Toiwilou/Parited?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe><br><br>
                     </span>
-                </div>  
+                </div> 
             </div>
 
             <div class="tab-content" id="diver">
